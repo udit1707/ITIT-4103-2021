@@ -1,2 +1,2 @@
 # ITIT-4103-2021
-Naive Bayes Classifier
+Assignment 2 - Naive Bayes Classifier
